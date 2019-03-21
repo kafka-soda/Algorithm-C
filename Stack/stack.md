@@ -3,19 +3,19 @@
 Stack-栈
 栈是一种数据呈线性排列的数据结构，不过在这种结构中，我们只能访问最新添加的数据。栈就像是一摞书，拿到新书时我们会把它放在书堆的最上面，取书时也只能从最上面的新书开始取。
 
-![](https://github.com/kafka-soda/Algorithm-C/blob/master/stack01.PNG)
+![](https://github.com/kafka-soda/Algorithm-C/blob/master/Png-Res/stack01.PNG)
 这就是栈的概念图。现在存储在栈中的只有数据 Blue。
 
-![](https://github.com/kafka-soda/Algorithm-C/blob/master/stack02.PNG)
+![](https://github.com/kafka-soda/Algorithm-C/blob/master/Png-Res/stack02.PNG)
 然后，栈中添加了数据 Green。
 
-![](https://github.com/kafka-soda/Algorithm-C/blob/master/stack03.PNG)
+![](https://github.com/kafka-soda/Algorithm-C/blob/master/Png-Res/stack03.PNG)
 接下来，数据 Red 入栈。
 
-![](https://github.com/kafka-soda/Algorithm-C/blob/master/stack04.PNG)
+![](https://github.com/kafka-soda/Algorithm-C/blob/master/Png-Res/stack04.PNG)
 从栈中取出数据时，是从最上面，也就是最新的数据开始取出的。这里取出的是 Red。
 
-![](https://github.com/kafka-soda/Algorithm-C/blob/master/stack05.PNG)
+![](https://github.com/kafka-soda/Algorithm-C/blob/master/Png-Res/stack05.PNG)
 如果再进行一次出栈操作，取出的就是 Green 了。
 
 解说
