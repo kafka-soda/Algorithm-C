@@ -3,7 +3,7 @@
 Stack-栈
 栈是一种数据呈线性排列的数据结构，不过在这种结构中，我们只能访问最新添加的数据。栈就像是一摞书，拿到新书时我们会把它放在书堆的最上面，取书时也只能从最上面的新书开始取。
 
-https://github.com/kafka-soda/Algorithm-C/blob/master/stack01.PNG
+![](https://github.com/kafka-soda/Algorithm-C/blob/master/stack01.PNG)
 这就是栈的概念图。现在存储在栈中的只有数据 Blue。
 
 https://github.com/kafka-soda/Algorithm-C/blob/master/stack02.PNG
