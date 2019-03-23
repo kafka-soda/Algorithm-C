@@ -1,18 +1,18 @@
 队列这种数据结构的数据也呈线性排列。虽然与栈有些相似，但队列中添加和删除数据的操作分别是在两端进行的。就和“队列”这个名字一样，把它想象成排成一队的人更容易理解。在队列中，处理总是从第一名开始往后进行，而新来的人只能排在队尾。
 
-图1
+![](https://github.com/kafka-soda/Algorithm-C/blob/master/Png-Res/queue01.PNG)
 这就是队列的概念图。现在队列中只有数据 Blue。
 
-图2
+![](https://github.com/kafka-soda/Algorithm-C/blob/master/Png-Res/queue02.PNG)
 然后，队列中添加了数据 Green。
 
-图3
+![](https://github.com/kafka-soda/Algorithm-C/blob/master/Png-Res/queue03.PNG)
 紧接着，数据 Red 也入队了。
 
-图4
+![](https://github.com/kafka-soda/Algorithm-C/blob/master/Png-Res/queue04.PNG)
 从队列中取出（删除）数据时，是从最下面，也就是最早入队的数据开始的。这里取出的是 Blue。
 
-图5
+![](https://github.com/kafka-soda/Algorithm-C/blob/master/Png-Res/queue05.PNG)
 如果再进行一次出队操作，取出的就是 Green 了。
 
 解说
